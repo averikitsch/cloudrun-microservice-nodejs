@@ -3,13 +3,15 @@
   "metadata": {
     "version": "0.1.0"
   },
-  "templates": {
-    "path": "./",
-    "name": "Cloud Run Microservice Template - Node.js",
-    "description": "Basic service template for Cloud Run",
-    "languages": [
-      "Node.js",
-      "Dockerfile"
-    ]
-  }
+  "templates": [
+    {
+      "path": "./",
+      "name": "Cloud Run Microservice Template - Node.js",
+      "description": "Basic service template for Cloud Run",
+      "languages": [
+        "Node.js",
+        "Dockerfile"
+      ]
+    }
+  ]
 }
